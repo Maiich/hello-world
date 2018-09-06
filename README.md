@@ -1,2 +1,3 @@
 # hello-world
-first time using this - hello world
+
+First time using this. I'm a total noob in programming :)
